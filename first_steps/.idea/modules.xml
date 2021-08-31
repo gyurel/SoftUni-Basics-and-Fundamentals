@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../First_steps_March/.idea/First_steps_March.iml" filepath="$PROJECT_DIR$/../First_steps_March/.idea/First_steps_March.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../First_steps_March_Excercise/.idea/First_steps_March_Excercise.iml" filepath="$PROJECT_DIR$/../First_steps_March_Excercise/.idea/First_steps_March_Excercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../conditional_statements/.idea/conditional_statements.iml" filepath="$PROJECT_DIR$/../conditional_statements/.idea/conditional_statements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../conditional_statements_advanced_exercise/.idea/conditional_statements_advanced_exercise.iml" filepath="$PROJECT_DIR$/../conditional_statements_advanced_exercise/.idea/conditional_statements_advanced_exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../conditional_statements_advanced_lab/.idea/conditional_statements_advanced_lab.iml" filepath="$PROJECT_DIR$/../conditional_statements_advanced_lab/.idea/conditional_statements_advanced_lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../conditional_statements_exercise/.idea/conditional_statements_exercise.iml" filepath="$PROJECT_DIR$/../conditional_statements_exercise/.idea/conditional_statements_exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/first_steps.iml" filepath="$PROJECT_DIR$/.idea/first_steps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../for_loop_exercise/.idea/for_loop_exercise.iml" filepath="$PROJECT_DIR$/../for_loop_exercise/.idea/for_loop_exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../for_loop_lab/.idea/for_loop_lab.iml" filepath="$PROJECT_DIR$/../for_loop_lab/.idea/for_loop_lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nested_loops_exercise/.idea/nested_loops_exercise.iml" filepath="$PROJECT_DIR$/../nested_loops_exercise/.idea/nested_loops_exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nested_loops_lab/.idea/nested_loops_lab.iml" filepath="$PROJECT_DIR$/../nested_loops_lab/.idea/nested_loops_lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../preliminary_exam/.idea/preliminary_exam.iml" filepath="$PROJECT_DIR$/../preliminary_exam/.idea/preliminary_exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../while_loop_exercise/.idea/while_loop_exercise.iml" filepath="$PROJECT_DIR$/../while_loop_exercise/.idea/while_loop_exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../while_loop_lab/.idea/while_loop_lab.iml" filepath="$PROJECT_DIR$/../while_loop_lab/.idea/while_loop_lab.iml" />
+    </modules>
+  </component>
+</project>

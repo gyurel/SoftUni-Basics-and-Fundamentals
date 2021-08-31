@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../000_mid_exam_retake/.idea/000_mid_exam_retake.iml" filepath="$PROJECT_DIR$/../000_mid_exam_retake/.idea/000_mid_exam_retake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../00_final_exam/.idea/00_final_exam.iml" filepath="$PROJECT_DIR$/../00_final_exam/.idea/00_final_exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../02_exerise_programming_fundamentals_final_exam/.idea/02_exerise_programming_fundamentals_final_exam.iml" filepath="$PROJECT_DIR$/../02_exerise_programming_fundamentals_final_exam/.idea/02_exerise_programming_fundamentals_final_exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FundametalsMay2021.iml" filepath="$PROJECT_DIR$/.idea/FundametalsMay2021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../basic_syntax_conditional_statements_loops/.idea/basic_syntax_conditional_statements_loops.iml" filepath="$PROJECT_DIR$/../basic_syntax_conditional_statements_loops/.idea/basic_syntax_conditional_statements_loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../basic_syntax_conditional_statements_loops_exercise/.idea/basic_syntax_conditional_statements_loops_exercise.iml" filepath="$PROJECT_DIR$/../basic_syntax_conditional_statements_loops_exercise/.idea/basic_syntax_conditional_statements_loops_exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../data_types_and_variables/.idea/data_types_and_variables.iml" filepath="$PROJECT_DIR$/../data_types_and_variables/.idea/data_types_and_variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dictionaries/.idea/dictionaries.iml" filepath="$PROJECT_DIR$/../dictionaries/.idea/dictionaries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../exam_preparation/.idea/exam_preparation.iml" filepath="$PROJECT_DIR$/../exam_preparation/.idea/exam_preparation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../exercise_classes_and_objects/.idea/exercise_classes_and_objects.iml" filepath="$PROJECT_DIR$/../exercise_classes_and_objects/.idea/exercise_classes_and_objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../exercise_data_types_and_variables/.idea/exercise_data_types_and_variables.iml" filepath="$PROJECT_DIR$/../exercise_data_types_and_variables/.idea/exercise_data_types_and_variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../exercise_dictionaries/.idea/exercise_dictionaries.iml" filepath="$PROJECT_DIR$/../exercise_dictionaries/.idea/exercise_dictionaries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../exercise_funktions/.idea/exercise_funktions.iml" filepath="$PROJECT_DIR$/../exercise_funktions/.idea/exercise_funktions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../exercise_lists_advanced/.idea/exercise_lists_advanced.iml" filepath="$PROJECT_DIR$/../exercise_lists_advanced/.idea/exercise_lists_advanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../http_basis/.idea/http_basis.iml" filepath="$PROJECT_DIR$/../http_basis/.idea/http_basis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../list_basics_exercise/.idea/list_basics_exercise.iml" filepath="$PROJECT_DIR$/../list_basics_exercise/.idea/list_basics_exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../list_basics_lab/.idea/list_basics_lab.iml" filepath="$PROJECT_DIR$/../list_basics_lab/.idea/list_basics_lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mid_exam/.idea/mid_exam.iml" filepath="$PROJECT_DIR$/../mid_exam/.idea/mid_exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../more_exercise_dictionaries/.idea/more_exercise_dictionaries.iml" filepath="$PROJECT_DIR$/../more_exercise_dictionaries/.idea/more_exercise_dictionaries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../more_exercise_regex/.idea/more_exercise_regex.iml" filepath="$PROJECT_DIR$/../more_exercise_regex/.idea/more_exercise_regex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../preparation_for_exam/.idea/preparation_for_exam.iml" filepath="$PROJECT_DIR$/../preparation_for_exam/.idea/preparation_for_exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../regex_exercise/.idea/regex_exercise.iml" filepath="$PROJECT_DIR$/../regex_exercise/.idea/regex_exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../text_processing_exercise/.idea/text_processing_exercise.iml" filepath="$PROJECT_DIR$/../text_processing_exercise/.idea/text_processing_exercise.iml" />
+    </modules>
+  </component>
+</project>

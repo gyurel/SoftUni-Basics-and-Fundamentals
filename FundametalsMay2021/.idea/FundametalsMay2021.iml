@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="basic_syntax_conditional_statements_loops" />
+    <orderEntry type="module" module-name="basic_syntax_conditional_statements_loops_exercise" />
+    <orderEntry type="module" module-name="http_basis" />
+    <orderEntry type="module" module-name="data_types_and_variables" />
+    <orderEntry type="module" module-name="exercise_data_types_and_variables" />
+    <orderEntry type="module" module-name="list_basics_lab" />
+    <orderEntry type="module" module-name="list_basics_exercise" />
+    <orderEntry type="module" module-name="exercise_funktions" />
+    <orderEntry type="module" module-name="exercise_lists_advanced" />
+    <orderEntry type="module" module-name="exercise_classes_and_objects" />
+    <orderEntry type="module" module-name="exam_preparation" />
+    <orderEntry type="module" module-name="preparation_for_exam" />
+    <orderEntry type="module" module-name="mid_exam" />
+    <orderEntry type="module" module-name="dictionaries" />
+    <orderEntry type="module" module-name="exercise_dictionaries" />
+    <orderEntry type="module" module-name="text_processing_exercise" />
+    <orderEntry type="module" module-name="more_exercise_dictionaries" />
+    <orderEntry type="module" module-name="regex_exercise" />
+    <orderEntry type="module" module-name="more_exercise_regex" />
+    <orderEntry type="module" module-name="02_exerise_programming_fundamentals_final_exam" />
+    <orderEntry type="module" module-name="00_final_exam" />
+    <orderEntry type="module" module-name="000_mid_exam_retake" />
+  </component>
+</module>

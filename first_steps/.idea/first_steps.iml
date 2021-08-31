@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="First_steps_March" />
+    <orderEntry type="module" module-name="First_steps_March_Excercise" />
+    <orderEntry type="module" module-name="conditional_statements" />
+    <orderEntry type="module" module-name="conditional_statements_exercise" />
+    <orderEntry type="module" module-name="conditional_statements_advanced_lab" />
+    <orderEntry type="module" module-name="conditional_statements_advanced_exercise" />
+    <orderEntry type="module" module-name="for_loop_lab" />
+    <orderEntry type="module" module-name="for_loop_exercise" />
+    <orderEntry type="module" module-name="while_loop_lab" />
+    <orderEntry type="module" module-name="while_loop_exercise" />
+    <orderEntry type="module" module-name="nested_loops_lab" />
+    <orderEntry type="module" module-name="nested_loops_exercise" />
+    <orderEntry type="module" module-name="preliminary_exam" />
+  </component>
+</module>
